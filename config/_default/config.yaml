@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Scientific Blog (Hugo Theme) # Website name
-baseURL: 'https://example.com/' # Website URL
+title: Kawpingtec blog # Website name
+baseURL: 'https://kawpingtec.com.tw/' # Website URL
 
 ############################
 ## PAGE OPTIONS
